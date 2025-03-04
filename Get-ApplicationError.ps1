@@ -1,0 +1,1 @@
+Get-EventLog -LogName Application -EntryType Error | Out-GridView
